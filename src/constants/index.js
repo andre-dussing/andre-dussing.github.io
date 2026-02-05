@@ -19,6 +19,7 @@ import {
   plansoft,
   CompileVortex,
   uni,
+  creos,
 } from "../assets";
 
 export const navLinks = [
@@ -83,6 +84,19 @@ export const experiences = [
     title: "Master in Data Science",
     company_name: "University of Luxembourg",
     icon: uni,
+    iconBg: "#161329",
+    date: "September 2023 - today",
+    points: [
+      "Multidisciplinary approach combining mathematics and computer science to solve complex data challenges.",
+      "Comprehensive curriculum covering data management, statistical learning, machine learning, and modeling.",
+      "Hands-on learning through projects and a final-semester internship in industry or research.",
+    ],
+  },
+
+    {
+    title: "AI Use Case Analyst",
+    company_name: "Creos S.A.",
+    icon: creos,
     iconBg: "#161329",
     date: "September 2023 - today",
     points: [
