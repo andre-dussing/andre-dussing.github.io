@@ -93,18 +93,20 @@ export const experiences = [
     ],
   },
 
-    {
-    title: "AI Use Case Analyst",
-    company_name: "Creos S.A.",
-    icon: creos,
-    iconBg: "#161329",
-    date: "September 2023 - today",
-    points: [
-      "Multidisciplinary approach combining mathematics and computer science to solve complex data challenges.",
-      "Comprehensive curriculum covering data management, statistical learning, machine learning, and modeling.",
-      "Hands-on learning through projects and a final-semester internship in industry or research.",
-    ],
-  },
+{
+  title: "AI Use Case Analyst",
+  company_name: "Creos S.A.",
+  icon: creos,
+  iconBg: "#161329",
+  date: "Sep 2025 – Mar 2026",
+  points: [
+    "Identified and structured AI use cases across Grid Operations, Asset Management, and Customer Services.",
+    "Evaluated and prioritized use cases using business impact, technical feasibility, data maturity, and strategic fit.",
+    "Classified initiatives by AI paradigm (supervised learning, NLP, computer vision, optimization).",
+    "Developed visual dashboards and analytical summaries to support AI investment decisions.",
+    "Identified cross-department synergies to enable scalable and reusable AI solutions.",
+  ],
+},
 ];
 
 export const projects = [
