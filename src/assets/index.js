@@ -2,6 +2,8 @@
 import plansoft from "./company/4pace.png";
 import edunet from "./company/edunet.png";
 import uni from "./company/uni.png";
+import creos from "./company/creos.png";        
+
 
 // Import tech stack images
 import python from "./tech-stack/python.png";
@@ -34,6 +36,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 export {
+  creos,
   plansoft,
   edunet,
   python,
